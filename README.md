@@ -5,7 +5,7 @@ CS & Security student, rising senior, building things that actually get used ins
 I work at the intersection of **backend systems, security, and data**. Most of what's here started as "I want to learn X" and turned into a real project once I got stubborn about finishing it.
 
 - 🔐 Currently a Backend Security Intern at [CTFguide.com](https://ctfguide.com), managing live infra for Docker-hosted cybersecurity labs
-- 📊 Building ML models for MLB predictions in my spare time, which got me reading actual research papers instead of just tutorials
+- 📊 Building ML models for MLB predictions in my spare time
 - 🎓 Co-founded my school's SAT Prep Club, where I write the learning materials and build tools to make practice less painful
 - 🌱 Always learning by building rather than just reading docs
 
