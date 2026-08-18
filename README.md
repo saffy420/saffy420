@@ -41,8 +41,8 @@ An interactive web exhibit on phenotypic variation and conservation genetics, bu
 
 ## 📈 GitHub Stats
 
-![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=saffy420&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saffy420&layout=compact)
+![Leon's GitHub stats](https://github-stats-extended.vercel.app/api?username=saffy420&show_icons=true&theme=default)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=saffy420&layout=compact)
 
 ---
 
